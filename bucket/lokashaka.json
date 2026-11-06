@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "AI companions that live on your desktop and chat using an AI running on your own computer.",
     "homepage": "https://lokashaka.id",
     "license": {
@@ -9,12 +9,12 @@
     "notes": "Chat needs the AI brain (about 1.1 GB per language). Download it inside the app.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Lokashaka/lokashaka-app/releases/download/v1.0.0/LokashakaSetup-1.0.0.exe",
-            "hash": "a118d0ffe44ccab3f2ff77e177b730b3600a6a0f6017f00cfa45e67bbdd6743b"
+            "url": "https://github.com/Lokashaka/lokashaka-app/releases/download/v1.0.1/LokashakaSetup-1.0.1.exe",
+            "hash": "5934cd0118d3f03f4bae0b8e9ae2f25ce397c09cadb5db562cf283ca327f181b"
         }
     },
     "installer": {
-        "file": "LokashakaSetup-1.0.0.exe",
+        "file": "LokashakaSetup-1.0.1.exe",
         "args": [
             "/VERYSILENT",
             "/SUPPRESSMSGBOXES",
